@@ -1,14 +1,13 @@
-"# Iniciando o HTML e CSS"
+"# Starting with HTML and CSS"
 
 ## 💻 Sobre o projeto
 
 <p align="justify">
-O DevLinks é um projeto simples desenvolvido durante a formação Discover da <a href="https://app.rocketseat.com.br/">Rocketseat</a>, criado para exibir links de redes sociais e portfólio, com a funcionalidade de alternar entre diferentes idiomas e temas (claro e escuro). Utilizando HTML, CSS e JavaScript, a aplicação oferece uma interface limpa e moderna. Além disso, o projeto permite alternar entre os idiomas português e inglês, proporcionando uma experiência personalizada para o usuário.
-</p>
+<p align="justify"> DevLinks is a simple project developed during the Discover course by <a href="https://app.rocketseat.com.br/">Rocketseat</a>, created to display links to social media and portfolio, with the ability to toggle between different languages and themes (light and dark). Using HTML, CSS, and JavaScript, the application provides a clean and modern interface. In addition, the project allows toggling between Portuguese and English, providing a personalized experience for the user. </p>
 
 ## Layout
 
-O layout da aplicação está disponível no ["Figma"](<"https://www.figma.com/design/sfPxwjlwlCq5cSKS2k6bzY/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&node-type=canvas&t=gEfdRXTv6WE7NMJH-0>)
+The layout of the application is available on ["Figma"](<"https://www.figma.com/design/sfPxwjlwlCq5cSKS2k6bzY/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&node-type=canvas&t=gEfdRXTv6WE7NMJH-0>)
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
@@ -19,54 +18,54 @@ O layout da aplicação está disponível no ["Figma"](<"https://www.figma.com/d
   <img alt="Tela inicial em Inglês" title="#TelaInicialPtEn" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white-en.png?raw=true" width="300px">
 </p>
 
-## Funcionalidades
+## Features
 
-- **Alternância de Tema**: O usuário pode alternar entre o tema claro e escuro.
-- **Alternância de Idioma**: O usuário pode alternar entre português e inglês.
-- **Links**: Exibe links para o portfólio e redes sociais.
-- **Responsividade**: O layout adapta-se bem a diferentes tamanhos de tela, oferecendo uma experiência agradável em dispositivos móveis e desktops.
+- **Theme Toggle**: The user can toggle between light and dark themes.
+- **Language Toggle**: The user can toggle between Portuguese and English.
+- **Links**: Displays links to portfolio and social media.
+- **Responsiveness**: The layout adapts well to different screen sizes, providing a pleasant experience on mobile and desktop devices.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML5**: Estrutura da página.
-- **CSS3**: Estilização e responsividade.
-- **JavaScript**: Funcionalidades de alternância de tema e idioma.
-- **Ionicons**: Ícones para redes sociais.
-- **Google Fonts**: Fonte utilizada para o texto (Inter).
+- **HTML5**: Page structure.
+- **CSS3**: Styling and responsiveness.
+- **JavaScript**: Theme and language toggle functionalities.
+- **Ionicons**: Icons for social media.
+- **Google Fonts**: Font used for the text (Inter).
 
-## 🚀 Como executar o projeto
+## 🚀 How to Run the Project
 
-### Pré-requisitos
+### Prerequisites
 
-<p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
+<p align="justify">Before you begin, you will need to have the following tools installed on your machine:</p>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,vscode" />
 </a>
 
-### Clone o repositório
+### Clone the Repository
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone <https://github.com/Gelzieny/formacao_discover.git>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Navigate to the project folder in your terminal/cmd
 $ cd formacao_discover
 
 ```
 
-### Abra o projeto:
+### Open the Project:
 
-- Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador.
+- Navigate to the project directory and open the `index.html` file in your browser.
 
-### Alternar entre os idiomas:
+### Toggle Between Languages:
 
-- Clique nos botões de idioma ("Português" ou "English") para alternar entre as traduções disponíveis.
+- Click the language buttons ("Português" or "English") to switch between the available translations.
 
-### Alternar entre os temas:
+### Toggle Between Themes:
 
-- Clique no botão de alternância de tema (ícone de sol ou lua) para mudar entre o tema claro e o escuro.
+- Click the theme toggle button (sun or moon icon) to switch between light and dark themes.
 
-# 🧑🏻‍💻 Autor
+# 🧑🏻‍💻 Author
 
-Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)
+Made with ❤️ by Gelzieny R. Martins 👋🏽 [Get in touch!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)

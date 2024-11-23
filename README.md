@@ -11,13 +11,12 @@ O DevLinks é um projeto simples desenvolvido durante a formação Discover da <
 O layout da aplicação está disponível no ["Figma"](<"https://www.figma.com/design/sfPxwjlwlCq5cSKS2k6bzY/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&node-type=canvas&t=gEfdRXTv6WE7NMJH-0>)
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Tela inicial em Português" title="#TelaInicialPtBr" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/dark.png?raw=true" width="400px">
 
-  <img alt="Tela inicial em Inglês" title="#elaInicialPtEn" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/dark-en.png?raw=true" width="400px">
+  <img alt="Tela inicial em Inglês" title="#elaInicialPtEn" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/dark-en.png?raw=true" width="300px">
 
-  <img alt="Tela inicial em Português" title="#TelaInicialPtBr" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white.png?raw=true" width="400px">
+  <img alt="Tela inicial em Português" title="#TelaInicialPtBr" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white.png?raw=true" width="300px">
 
-  <img alt="Tela inicial em Inglês" title="#TelaInicialPtEn" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white-en.png?raw=true" width="400px">
+  <img alt="Tela inicial em Inglês" title="#TelaInicialPtEn" src="https://github.com/Gelzieny/formacao_discover/blob/main/.github/white-en.png?raw=true" width="300px">
 </p>
 
 ## Funcionalidades
